@@ -4,9 +4,15 @@
 Coin flip randomizer made in Android Studio
 
 # Manifest.Android.java
-xml version="1.0" encoding="utf-8"?>
-manifest_xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.coinflip" >
+xml
+
+version="1.0" e
+
+
+ncoding="utf-8"?>
+manifest_xmlns:android=
+'http://schemas.android.com/apk/res/android`
+    package="com.example.coinflip"
 
     application
         android:allowBackup="true"
