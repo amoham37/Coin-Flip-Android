@@ -24,4 +24,4 @@ xml version="1.0" encoding="utf-8"?>
         </activity>
     </application>
 
-</manifest>
+</manifest.Main.yml>
