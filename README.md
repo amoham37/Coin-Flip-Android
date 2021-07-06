@@ -6,13 +6,15 @@ Coin flip randomizer made in Android Studio
 # Manifest.Android.java
 xml
 
-version="1.0" e
+version="1.0"
 
 
-ncoding="utf-8"?>
-manifest_xmlns:android=
-'http://schemas.android.com/apk/res/android`
-    package="com.example.coinflip"
+====
+
+-encoding="utf-8"?>
+ -manifest_xmlns:android=
+  -'http://schemas.android.com/apk/res/android`
+   -package="com.example.coinflip"
 
     application
         android:allowBackup="true"
@@ -26,8 +28,8 @@ manifest_xmlns:android=
                 action android:name="android.intent.action.MAIN" />
 
                 <ategory android:name="android.intent.category.LAUNCHER" />
-            intent-filter>
-        activity>
-    application>
+            </intent-filter>
+        </activity>
+    </application>
 
-manifest.Main.yml>
+</manifest>
